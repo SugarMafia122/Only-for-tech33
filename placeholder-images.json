@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "A quiet library corner with a cup of coffee.",
+      "imageUrl": "https://images.unsplash.com/photo-1723334538533-e0fbdaabc637?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaWJyYXJ5JTIwY29mZmVlfGVufDB8fHx8MTc1ODYxOTMyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "library coffee"
+    },
+    {
+      "id": "2",
+      "description": "A person writing in a notebook in a sunlit room.",
+      "imageUrl": "https://images.unsplash.com/photo-1601321268954-22646044f7d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3cml0aW5nJTIwbm90ZWJvb2t8ZW58MHx8fHwxNzU4NTg1MzIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "writing notebook"
+    },
+    {
+      "id": "3",
+      "description": "A winding path through a misty forest.",
+      "imageUrl": "https://images.unsplash.com/photo-1531756716853-09a60d38d820?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmb3Jlc3QlMjBwYXRofGVufDB8fHx8MTc1ODU5MTAyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forest path"
+    },
+    {
+      "id": "4",
+      "description": "An abstract painting with warm, earthy tones.",
+      "imageUrl": "https://images.unsplash.com/photo-1533208087231-c3618eab623c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhYnN0cmFjdCUyMHBhaW50aW5nfGVufDB8fHx8MTc1ODU4MjIzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract painting"
+    },
+    {
+      "id": "5",
+      "description": "A close-up of a vintage typewriter.",
+      "imageUrl": "https://images.unsplash.com/photo-1533140717783-6db98f7d7de6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx2aW50YWdlJTIwdHlwZXdyaXRlcnxlbnwwfHx8fDE3NTg2MTU4MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vintage typewriter"
+    }
+  ]
+}
